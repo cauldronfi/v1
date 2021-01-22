@@ -1,0 +1,6 @@
+.env
+node_modules
+build
+truffle-config.js
+alpha.js
+flat.sol
